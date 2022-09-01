@@ -14,4 +14,4 @@ export const CART = {
 
 //for heroku
 export const JSON_API_PRODUCTS =
-  "http://online-stote-kz.herokuapp.com/api/products.";
+  "https://online-store-kz.herokuapp.com/api/products";
